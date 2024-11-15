@@ -1,0 +1,29 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(255, 105, 180, 0.1);
+    background-image: url(/assets/images/windows-11-landscape-scenery-sunrise-stock-day-light-3840x2160-5661.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left right;
+}
+button{
+    background-color: rgb(41, 127, 226);
+    color: rgb(19, 17, 17);
+    padding: 5px 15px;
+    border: none;
+    border-radius: 5px;
+}
+button:hover{
+    background-color: transparent;
+    color:  rgb(26, 57, 194);
+    cursor: pointer;
+    border: 1px solid  rgb(56, 74, 240);
+}
+input{
+    margin: 3px;
+    border-radius: 5px;
+    border: 1px solid rgb(14, 13, 13);
+}
+h2{
+    text-align: center;
+}
